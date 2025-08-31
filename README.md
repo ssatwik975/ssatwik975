@@ -21,15 +21,13 @@ Final-year IT undergrad (CGPA 9.28) • Builder at heart • Competitive Program
 * **RajmargYatra** → India’s highest-rated govt app; 1.5M+ downloads, ₹300 Cr revenue in 10 days (Kotlin + React + PM + Design).
 * **Dependency Insight** → Open-source NPM CLI writtin in JS; 25k+ downloads.
 * **Seeker** → VSCode extension for local LLMs (350+ supported); 865 DAUs, 300 in first 48h.
-* **WireTrack** → SIH 2024 Winning Project; real-time production predictor deployed at NALCO.
-* **IQMDIS** → SIH 2023 Grand Finalist; data discrepancy system for Ministry of Rural Development.
-* **FASTkey** → Passwordless fingerprint auth based on FIDO2 (Flutter App + WebAuthn).
+* **WireTrack** → SIH 2024 Winning Project; real-time quality predictor deployed at NALCO. (MERN + ML)
+* **FASTkey** → Passwordless fingerprint auth based on FIDO2 (MERN + Flutter App).
 * **IIIT Bhopal Website (Official)** → Designed & developed complete revamp with modern stack.
-* **Codame Website** → Horizontal-scroll MERN + Next.js site.
 * **TruemDb** → Aggregated + normalized movie rating platform (MERN + Data Science).
-* **Cloud Resume** → Serverless portfolio on AWS with CI/CD (Terraform + GitHub Actions).
+* **Cloud Resume** → Serverless portfolio on AWS with CI/CD (AWS + Terraform + GitHub Actions).
 * **Potato-Doc** → Plant disease detection ML model, quantized for smartphones (Springer paper forthcoming).
-* Other: Screeni (Screen Time Tracking Chrome extension), Speedify (Spotify optimization script, 40★, 1k+ users).
+* Other: Screeni (Screen Time Tracking Chrome extension), Speedify (Spotify optimization script, 40★, 1k+ users) and more.
 
 ---
 
