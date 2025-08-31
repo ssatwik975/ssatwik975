@@ -26,7 +26,7 @@ Final-year IT undergrad (CGPA 9.28) • Competitive Programmer • Full-stack & 
 * **IIIT Bhopal Website (Official)** → Designed & developed complete revamp with modern stack.
 * **TruemDb** → Aggregated + normalized movie rating platform (MERN + Data Science).
 * **Cloud Resume** → Serverless portfolio on AWS with CI/CD (AWS + Terraform + GitHub Actions).
-* **Potato-Doc** → Plant disease detection ML model, quantized for smartphones (Springer paper forthcoming).
+* **Potato-Doc** → Plant disease detection ML model, quantized for smartphones (Springer paper soon-to-be-published).
 
 ---
 
