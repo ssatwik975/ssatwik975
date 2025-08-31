@@ -23,7 +23,7 @@ Final-year IT undergrad (CGPA 9.28) • Builder at heart • Competitive Program
 * **Seeker** → VSCode extension for local LLMs (350+ supported); 865 DAUs, 300 in first 48h.
 * **WireTrack** → SIH 2024 Winning Project; real-time production predictor deployed at NALCO.
 * **IQMDIS** → SIH 2023 Grand Finalist; data discrepancy system for Ministry of Rural Development.
-* **FASTkey** → Passwordless fingerprint auth (Flutter + WebAuthn).
+* **FASTkey** → Passwordless fingerprint auth based on FIDO2 (Flutter App + WebAuthn).
 * **IIIT Bhopal Website (Official)** → Designed & developed complete revamp with modern stack.
 * **Codame Website** → Horizontal-scroll MERN + Next.js site.
 * **TruemDb** → Aggregated + normalized movie rating platform (MERN + Data Science).
