@@ -16,7 +16,7 @@ Final-year IT undergrad (CGPA 9.28) • Builder at heart • Competitive Program
 
 ---
 
-### some of my work highlights
+### some of my recent work highlights
 
 * **RajmargYatra** → India’s highest-rated govt app; 1.5M+ downloads, ₹300 Cr revenue in 10 days (Kotlin + React + PM + Design).
 * **Dependency Insight** → Open-source NPM CLI writtin in JS; 25k+ downloads.
@@ -27,7 +27,6 @@ Final-year IT undergrad (CGPA 9.28) • Builder at heart • Competitive Program
 * **TruemDb** → Aggregated + normalized movie rating platform (MERN + Data Science).
 * **Cloud Resume** → Serverless portfolio on AWS with CI/CD (AWS + Terraform + GitHub Actions).
 * **Potato-Doc** → Plant disease detection ML model, quantized for smartphones (Springer paper forthcoming).
-* Other: Screeni (Screen Time Tracking Chrome extension), Speedify (Spotify optimization script, 40★, 1k+ users) and more.
 
 ---
 
