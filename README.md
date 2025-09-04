@@ -5,6 +5,9 @@
 **Fast. Scrappy. Resourceful.**     
 Final-year IT undergrad (CGPA 9.28) • Competitive Programmer • Full-stack & Cross-Platform Developer • Designer
 
+Find me at [satwik.in](https://www.satwik.in/) or [my LinkedIn](https://www.linkedin.com/in/singhsatwik/)  
+
+
 ---
 
 ### tldr
@@ -29,6 +32,7 @@ Final-year IT undergrad (CGPA 9.28) • Competitive Programmer • Full-stack & 
 * **TruemDb** → Aggregated + normalized movie rating platform (MERN + Data Science).
 * **Cloud Resume** → Serverless portfolio on AWS with CI/CD (AWS + Terraform + GitHub Actions).
 * **Potato-Doc** → Plant disease detection ML model, quantized for smartphones (Springer paper soon-to-be-published).
+
 
 ---
 
@@ -76,6 +80,4 @@ Final-year IT undergrad (CGPA 9.28) • Competitive Programmer • Full-stack & 
   <img src="https://github-readme-stats.vercel.app/api?username=ssatwik975&show_icons=true&theme=radical&count_private=true&include_all_commits=true&custom_title=My%20GitHub%20Stats&rank_icon=github" alt="GitHub Stats" />
 </div>
 
----
 
-#### More about me at [satwik.in](https://www.satwik.in/) or [my LinkedIn](https://www.linkedin.com/in/singhsatwik/)  
