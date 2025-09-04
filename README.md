@@ -1,3 +1,5 @@
+# Research → Design → Code → Deploy → Scale
+
 ### Hi!, I'm Satwik Singh 👋
 
 **Fast. Scrappy. Resourceful.**     
@@ -19,7 +21,7 @@ Final-year IT undergrad (CGPA 9.28) • Competitive Programmer • Full-stack & 
 ### some of my recent work highlights
 
 * **RajmargYatra** → India’s highest-rated govt app; 1.5M+ downloads, ₹300 Cr revenue in 10 days (Kotlin + React + PM + Design).
-* **Dependency Insight** → Open-source NPM CLI writtin in JS; 25k+ downloads.
+* **Dependency Insight** → Open-source NPM CLI writtin in JS; 30k+ downloads.
 * **Seeker** → VSCode extension for local LLMs (350+ supported); 865 DAUs, 300 in first 48h.
 * **WireTrack** → SIH 2024 Winning Project; real-time quality predictor deployed at NALCO. (MERN + ML)
 * **FASTkey** → Passwordless fingerprint auth based on FIDO2 (MERN + Flutter App).
