@@ -77,6 +77,6 @@ Find me at [satwik.in](https://www.satwik.in/) or [my LinkedIn](https://www.link
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ssatwik975&show_icons=true&theme=vision-friendly-dark&count_private=true&&hide_border=true&include_all_commits=true&custom_title=My%20GitHub%20Stats&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ssatwik975&show_icons=true&theme=dark&count_private=true&&hide_border=true&include_all_commits=true&custom_title=My%20GitHub%20Stats&rank_icon=github" alt="GitHub Stats" />
  
 </div>
