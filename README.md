@@ -1,4 +1,4 @@
-# Research → Design → Code → Deploy → Scale
+# Design → Code → Deploy → Scale
 
 ### Hi!, I'm Satwik Singh 👋
 
