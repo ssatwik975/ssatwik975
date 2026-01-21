@@ -1,6 +1,6 @@
 # Design → Code → Deploy → Scale
 
-### Hi!, I'm Satwik Singh 👋
+### Hi! I'm Satwik Singh 👋
 
 **Fast. Scrappy. Resourceful.**     
 Final-year IT undergrad (CGPA 9.28) • Competitive Programmer • Full-stack & Cross-Platform Developer • Designer
