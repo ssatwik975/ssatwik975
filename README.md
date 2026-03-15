@@ -18,7 +18,7 @@ Find me at [satwik.in](https://www.satwik.in/) or [my LinkedIn](https://www.link
 * Codeforces Expert | CodeChef 4★
 
 
-### some of my recent work highlights
+### some recent work highlights
 
 * **RajmargYatra** → India’s highest-rated govt app; 1.5M+ downloads, ₹300 Cr revenue in 10 days (Kotlin + React + PM + Design).
 * **StockPiece** → 150K+ users, 8mil requests handled during peak month (On hold due to other commitments).
